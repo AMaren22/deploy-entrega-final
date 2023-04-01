@@ -12,7 +12,7 @@ export const info = {
                 description: 'Local Server'
             },
             {
-                 url: 'http://url.railways.com',
+                 url: 'deploy-entrega-final-production.up.railway.app',
                  description: 'Production server'
             }
         ]
